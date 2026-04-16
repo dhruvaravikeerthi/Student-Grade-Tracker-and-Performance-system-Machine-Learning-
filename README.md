@@ -72,6 +72,15 @@ Python, Streamlit, Pandas, NumPy, Scikit-learn, Matplotlib
 The goal of this project is to demonstrate how machine learning can be applied in an educational context to better understand student performance. It is intended to show how data-driven systems can help interpret academic behavior in a meaningful and explainable way.
 
 ---
+## Future Improvements
+
+While the current system provides accurate and real-time predictions, there are several enhancements that can be implemented in future versions to improve functionality and user experience.
+
+In future updates, the project can be extended to include more advanced machine learning models such as ensemble methods or deep learning approaches to improve prediction accuracy. The dataset can also be expanded with more diverse student populations to make the model more robust and generalizable.
+
+From a user experience perspective, the interface can be further improved with more interactive visualizations, better design layouts, and deeper explanations of individual predictions. Features such as personalized feedback for students based on their inputs and comparison with historical performance trends can also be added.
+
+Additionally, deployment can be upgraded to a more scalable cloud environment with user authentication, allowing personalized dashboards for different users.
 
 ## Author
 
