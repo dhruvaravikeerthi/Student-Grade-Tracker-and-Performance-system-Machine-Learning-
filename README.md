@@ -37,7 +37,7 @@ The system learns patterns from student data and applies them to new inputs to:
 - ⚠️ Gap identification (target vs predicted)  
 - 🧠 Personalized improvement suggestions  
 - 🌐 Interactive web application  
-
+   Feature contribution graph
 
 
 ## ⚙️ Machine Learning Approach
@@ -57,12 +57,11 @@ This project demonstrates how machine learning can be applied in education to he
 ## 🚀 Future Improvements
 - Add advanced models (Random Forest, XGBoost)  
 - Improve feature engineering  
-- Add visual analytics (graphs, feature importance)  
 - Enhance UI/UX  
 - Add user dashboards  
 
 ## 💡 What I Learned
-While building this project, I explored how machine learning models learn patterns from data and how those patterns can be translated into meaningful real-world insights.
+While building this project, I was able to apply my knowledge in Machine Learning practically and explored how machine learning models learn patterns from data and how those patterns can be translated into meaningful real-world insights.
 I also focused on making the system interactive and understandable, rather than just building a static model.
 
 ## 👨‍💻 Author
